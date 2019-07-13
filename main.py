@@ -94,7 +94,7 @@ class GearCutterPage(QWidget):
             return
 
         try:
-            thickness = float(self.teeth_textbox.text())
+            thickness = float(self.thickness_textbox.text())
         except:
             QMessageBox.question(self, "", "Thickness Must be an Numeric Value", QMessageBox.Ok, QMessageBox.Ok)
             return
