@@ -12,7 +12,7 @@ Kivy==1.11.1
 Kivy-Garden==0.1.4
 lxml==4.3.3
 odevalidator==0.0.4
-Pygments==2.4.2
+Pygments==2.7.4
 pyperclip==1.7.0
 PyQt5==5.12.3
 PyQt5-sip==4.19.17
